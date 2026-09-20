@@ -1,17 +1,17 @@
-# PawBites
+# PawBites Treat
 
-A responsive pet treat e-commerce website designed to provide a simple and engaging online shopping experience for pet owners.
+A responsive pet treat e-commerce website designed to provide a simple, engaging, and user-friendly online experience for pet owners.
 
 ## Features
 
-* Responsive navigation menu
-* Interactive mobile navigation
-* Responsive and user-friendly interface
-* Scroll-based animations using **ScrollReveal.js**
-* Interactive content carousel using **Swiper.js**
-* Animated hero and content sections
-* Dedicated sections for exploring products and information
-* Mobile-friendly design
+* Responsive and mobile-friendly design
+* Interactive navigation menu
+* Hamburger menu for smaller screens
+* Dynamic menu icon switching
+* Smooth scroll-based animations
+* Interactive content carousel
+* Product-focused sections
+* Clean and engaging user interface
 
 ## Technologies Used
 
@@ -24,30 +24,32 @@ A responsive pet treat e-commerce website designed to provide a simple and engag
 
 ## JavaScript Functionality
 
-The project uses JavaScript to add interactive behavior and animations throughout the website.
+The project uses JavaScript to add interactive elements and animations to the website.
 
 ### Responsive Navigation
 
-The navigation menu can be opened and closed using the menu button. The menu icon dynamically switches between the hamburger and close icons depending on the current menu state.
+The navigation menu can be opened and closed using the menu button. The menu icon automatically changes between the hamburger and close icons based on the menu state.
 
 ### Scroll Animations
 
-**ScrollReveal.js** is used to create smooth entrance animations for different sections of the website, including:
+**ScrollReveal.js** is used to add smooth animations as different sections enter the viewport.
+
+Animated sections include:
 
 * Hero section
-* Product/explore section
+* Explore/product section
 * Promotional cards
-* Chef/content section
-* Individual content elements
+* Content sections
+* Individual list elements
 
 ### Interactive Carousel
 
-**Swiper.js** is used to create a looping carousel with pagination, allowing content to be presented in an interactive and responsive format.
+**Swiper.js** is used to create a looping carousel with pagination for presenting content in an interactive format.
 
 ## Project Structure
 
 ```text
-PawBites/
+pawbites-treat/
 │
 ├── index.html
 ├── style.css
@@ -60,18 +62,18 @@ PawBites/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/PawBites.git
+git clone https://github.com/your-username/pawbites-treat.git
 ```
 
 ### 2. Open the project
 
-Navigate to the project directory and open `index.html` in a web browser.
+Navigate to the project directory and open `index.html` in your browser.
 
 No backend setup or additional dependencies are required.
 
 ## Purpose
 
-PawBites was created as a frontend web development project to practice building responsive interfaces, implementing JavaScript interactions, and integrating third-party JavaScript libraries for animations and interactive components.
+PawBites Treat was developed as a frontend web development project to practice responsive web design, JavaScript interactions, animations, and the integration of external frontend libraries.
 
 ## License
 
